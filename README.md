@@ -1,6 +1,5 @@
 <html>
     <body>
-        <h1>SAlut</h1>
-        <img src="./img.png" alt="">
+        <h1>Hello, i'm Lythevine Domche</h1>
     </body>
 </html>
